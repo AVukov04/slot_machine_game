@@ -1,6 +1,6 @@
 # Slot Machine Game
 
-A simple slot machine game made with Python and pygame.
+A simple test-focused slot machine game made with Python and PyGame.
 
 ## Setup
 
